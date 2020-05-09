@@ -15,7 +15,7 @@ The system includes the following functionalities:
 https://docs.google.com/presentation/d/12nV76cK7YiDq3pBJMG4s6rc43g09HuKsHTnrOwjBuYE/edit?usp=sharing
 
 # Demo link
-https://drive.google.com/open?id=1Qcu7o6hqE7lXYvSeIBtloQWHxpkNFMmB
+https://youtu.be/cKujWv9rtgE
 
 # Dependencies:
 * Ganache(install from "https://www.trufflesuite.com/ganache")
