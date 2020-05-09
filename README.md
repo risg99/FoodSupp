@@ -11,9 +11,11 @@ The system includes the following functionalities:
 5. The system is entirely transparent. Any forgery or other fraudulent activities (hoarding) can be traced as the timestamp is noted at every step.
 
 
-Ppt link : https://docs.google.com/presentation/d/12nV76cK7YiDq3pBJMG4s6rc43g09HuKsHTnrOwjBuYE/edit?usp=sharing
+# Ppt link 
+https://docs.google.com/presentation/d/12nV76cK7YiDq3pBJMG4s6rc43g09HuKsHTnrOwjBuYE/edit?usp=sharing
 
 # Demo link
+https://drive.google.com/open?id=1Qcu7o6hqE7lXYvSeIBtloQWHxpkNFMmB
 
 # Dependencies:
 * Ganache(install from "https://www.trufflesuite.com/ganache")
@@ -22,9 +24,9 @@ Ppt link : https://docs.google.com/presentation/d/12nV76cK7YiDq3pBJMG4s6rc43g09H
 
 # Steps To Test
 For testing:
-* Deploy Contracts on Ganache
+1. Deploy Contracts on Ganache
 * Connect Ganache to Remix IDE.
 * Deploy the contract() in the Contracts folder after compiling.
 * Copy the contract addresses and assign them to contract variables in user/views.py. (Line 31).
-* Change Path of SVG files (Present in "user/views.py" at line number --) to Systems directory(Ex: "C://Your path/FoodSupp/user/static/Images/QRfiles/").
-* Run server a. Run the "python manage.py runserver" command after changing the root directory as "FoodSupp".
+2. Change Path of SVG files (Present in "user/views.py" at line number --) to Systems directory(Ex: "C://Your path/FoodSupp/user/static/Images/QRfiles/").
+3. Run server a. Run the "python manage.py runserver" command after changing the root directory as "FoodSupp".
